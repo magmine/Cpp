@@ -1,0 +1,1 @@
+This directory contains some methods to use if you want to fake constructor/destructor overriding, this might be helpful if you want to debug your code and you doubt that it might be because of somecontainer being constructed/destructed in a non expected manner or maybe just to see the behaviour of those containers in action when you don't fully understand some cpp reference.
